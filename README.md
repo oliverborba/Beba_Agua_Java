@@ -1,4 +1,7 @@
 # App Beba Água - Android Java
-Aplicação para informar momentos para beber água.
+
+Aplicaçao para notificar quando beber água, conforme intervalo de tempo pré definido
 
 Prática de desenvolvimento do layout, lógica 
+
+Curso Android Express ministrado pelo professor Tiago Aguiar
